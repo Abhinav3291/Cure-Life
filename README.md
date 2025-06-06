@@ -105,16 +105,11 @@ Hospital-Management-System/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Support
 
-For support, email support@hospital-management-system.com or create an issue in the repository.
+For support, email abhinavabhardwaj6789@gmail.com or create an issue in the repository.
 
 ## Acknowledgments
-
-- Thanks to all contributors
-- Special thanks to healthcare professionals for their valuable feedback
 - Inspired by modern hospital management practices
