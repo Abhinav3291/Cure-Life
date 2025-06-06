@@ -1,4 +1,4 @@
-# Hospital Management System
+# Curelife
 
 A comprehensive Hospital Management System built with modern technologies to streamline healthcare operations and improve patient care.
 
